@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.bg-img{
+    background-image: url("https://ik.imagekit.io/4z8covdo9/Full stack/todolistbg.png?updatedAt=1700761069523");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    opacity: 0.9;
+}
+
+.one h1{
+    color: azure;
+    padding-left: 140px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+#two{
+    width: 400px;
+}
+.one button{
+    background-color: orange;
+    color: white;
+    margin-left: 180px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: black;
+    
+}
+#four{
+    color: white;
+    padding-left: 140px;
+}
